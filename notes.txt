@@ -1,3 +1,7 @@
+ HEAD
 Line A
 Line B
 Line C
+Line D - Login feature
+Line E - Validation
+ a2bc92f (Save work before rebase)
