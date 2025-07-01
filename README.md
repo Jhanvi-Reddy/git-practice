@@ -1,2 +1,3 @@
-# git-practice
-learning git commanda
+# My Project
+This is a simple calculator project.
+Run using: python calculator.py
